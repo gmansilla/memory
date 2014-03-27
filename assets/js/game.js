@@ -5,7 +5,6 @@ $(function() {
         }
 
         if ($("div.card img").length == 2 || $(this).hasClass('blank')) {
-            console.log('not sending request');
             return;
         }
 
