@@ -10,7 +10,6 @@
 	<title>Memory Game</title>
 	<link href="assets/css/styles.css" rel="stylesheet">
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	<script src="assets/js/game.js"></script>
 </head>
 <body>
