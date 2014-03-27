@@ -1,5 +1,5 @@
 <?php
-require_once 'lib/game.php';
+require_once 'lib/Game.php';
 class Handler {
 	public $error = 0;
 	public $message = "";
